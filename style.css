@@ -1,0 +1,31 @@
+.fa {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    position: relative;
+    right: 35px;
+    border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.5;
+    color: white;
+    text-decoration: none;
+}
+.fa-facebook {
+padding-left: 12px;
+padding-right: 12px;
+background: #3B5998;
+color: white;
+}
+.fa-instagram {
+background: #cb2027;
+color: white;
+}
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+
